@@ -1,0 +1,5 @@
+* TooManyCells Analyses
+
+Collection of analysis scripts used in the TooManyCells introductory paper.
+Includes comparisons, purity benchmark, rare population benchmark, random sample
+generation, synthetic sample generation, and more.
